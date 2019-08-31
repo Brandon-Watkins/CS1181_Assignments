@@ -1,0 +1,10 @@
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\bin\Debug\BrandonsFirstDrawing_HowCute.exe.config
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\bin\Debug\BrandonsFirstDrawing_HowCute.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\bin\Debug\BrandonsFirstDrawing_HowCute.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\obj\Debug\BrandonsFirstDrawing_HowCute.csprojAssemblyReference.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\obj\Debug\BrandonsFirstDrawing_HowCute.frmBrandonsFirstDrawing.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\obj\Debug\BrandonsFirstDrawing_HowCute.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\obj\Debug\BrandonsFirstDrawing_HowCute.csproj.GenerateResource.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\obj\Debug\BrandonsFirstDrawing_HowCute.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\obj\Debug\BrandonsFirstDrawing_HowCute.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 11\BrandonsFirstDrawing_HowCute\BrandonsFirstDrawing_HowCute\obj\Debug\BrandonsFirstDrawing_HowCute.pdb

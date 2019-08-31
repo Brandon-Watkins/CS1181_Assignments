@@ -1,0 +1,11 @@
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\bin\Debug\frmRandomNumberDistribution.exe.config
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\bin\Debug\frmRandomNumberDistribution.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\bin\Debug\frmRandomNumberDistribution.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.csprojAssemblyReference.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.frmRandomNumberDistribution.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.csproj.GenerateResource.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 7\frmRandomNumberDistribution\frmRandomNumberDistribution\obj\Debug\frmRandomNumberDistribution.frmStatsTable.resources

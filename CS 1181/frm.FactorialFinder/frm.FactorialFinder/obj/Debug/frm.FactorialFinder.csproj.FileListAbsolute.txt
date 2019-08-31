@@ -1,0 +1,29 @@
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.exe.config
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.exe
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.pdb
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.frmFactorialFinder.resources
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.Properties.Resources.resources
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.exe
+C:\Users\Brandon\source\repos\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.pdb
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.exe.config
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.exe
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.pdb
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.exe
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.pdb
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csprojResolveAssemblyReference.cache
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.frmFactorialFinder.resources
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.Properties.Resources.resources
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csproj.GenerateResource.Cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.exe.config
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\bin\Debug\frm.FactorialFinder.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csprojAssemblyReference.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.frmFactorialFinder.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csproj.GenerateResource.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 4\frm.FactorialFinder\frm.FactorialFinder\obj\Debug\frm.FactorialFinder.pdb

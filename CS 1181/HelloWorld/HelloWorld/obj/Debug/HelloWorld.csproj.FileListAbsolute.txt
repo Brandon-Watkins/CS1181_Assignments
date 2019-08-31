@@ -1,0 +1,19 @@
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmMain.resources
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Brandon\Desktop\CS 1181\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmMain.resources
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\tylla\Dropbox\School\CS 1181\Assignment 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache

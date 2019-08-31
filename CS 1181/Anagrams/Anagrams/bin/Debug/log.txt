@@ -1,0 +1,78 @@
+4/10/2019 2:43:41 PM   Starting Anagrams Program.
+4/10/2019 2:43:41 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:43:41 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:43:45 PM   User-defined word list is invalid: C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\log.txt. Closing program.
+4/10/2019 2:44:01 PM   Starting Anagrams Program.
+4/10/2019 2:44:01 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:44:02 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:44:14 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:44:35 PM   Random word drawn from shuffle: parameter.
+4/10/2019 2:44:35 PM   Shuffled word has been randomized to form: trarmpaee.
+4/10/2019 2:45:46 PM   Starting Anagrams Program.
+4/10/2019 2:45:46 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:45:46 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:45:53 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:45:55 PM   Random word drawn from shuffle: louisville.
+4/10/2019 2:45:55 PM   Shuffled word has been randomized to form: lslioileuv.
+4/10/2019 2:46:18 PM   Random word drawn from shuffle: companion.
+4/10/2019 2:46:19 PM   Shuffled word has been randomized to form: pniaonocm.
+4/10/2019 2:47:24 PM   Starting Anagrams Program.
+4/10/2019 2:47:24 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:47:24 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:47:30 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:47:33 PM   Random word drawn from shuffle: institutes.
+4/10/2019 2:47:33 PM   Shuffled word has been randomized to form: etttnissui.
+4/10/2019 2:47:36 PM   Random word drawn from shuffle: utilities.
+4/10/2019 2:47:36 PM   Shuffled word has been randomized to form: ultiiitse.
+4/10/2019 2:48:08 PM   Starting Anagrams Program.
+4/10/2019 2:48:08 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:48:08 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:48:15 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:48:18 PM   Random word drawn from shuffle: ecommerce.
+4/10/2019 2:48:18 PM   Shuffled word has been randomized to form: ecmoecerm.
+4/10/2019 2:48:21 PM   Random word drawn from shuffle: desperate.
+4/10/2019 2:48:21 PM   Shuffled word has been randomized to form: taeprdese.
+4/10/2019 2:50:30 PM   Starting Anagrams Program.
+4/10/2019 2:50:30 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:50:30 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:50:35 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:50:37 PM   Random word drawn from shuffle: companies.
+4/10/2019 2:50:38 PM   Shuffled word has been randomized to form: omsipnaec.
+4/10/2019 2:51:15 PM   Starting Anagrams Program.
+4/10/2019 2:51:15 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:51:15 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:51:21 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:51:23 PM   Random word drawn from shuffle: prostores.
+4/10/2019 2:51:23 PM   Shuffled word has been randomized to form: oossteprr.
+4/10/2019 2:51:47 PM   Starting Anagrams Program.
+4/10/2019 2:51:47 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:51:47 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:52:00 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:52:03 PM   Random word drawn from shuffle: discussed.
+4/10/2019 2:52:03 PM   Shuffled word has been randomized to form: cssidueds.
+4/10/2019 2:53:21 PM   Starting Anagrams Program.
+4/10/2019 2:53:21 PM   Couldn't load word list from wordlist.txt.
+4/10/2019 2:53:21 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/10/2019 2:53:31 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/10/2019 2:53:34 PM   Random word drawn from shuffle: conflicts.
+4/10/2019 2:53:34 PM   Shuffled word has been randomized to form: nlctsfcoi.
+4/10/2019 2:53:43 PM   Random word drawn from shuffle: residence.
+4/10/2019 2:53:43 PM   Shuffled word has been randomized to form: cdersieen.
+4/10/2019 2:53:52 PM   Random word drawn from shuffle: passenger.
+4/10/2019 2:53:52 PM   Shuffled word has been randomized to form: sspeegnar.
+4/11/2019 2:09:18 PM   Starting Anagrams Program.
+4/11/2019 2:09:19 PM   Couldn't load word list from wordlist.txt.
+4/11/2019 2:09:19 PM   Couldn't load word list from C:\Windows\wordlist.txt.
+4/11/2019 2:09:26 PM   Successfully loaded word list from C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 9\FullWordList.txt.
+4/11/2019 2:09:47 PM   Random word drawn from shuffle: migration.
+4/11/2019 2:09:47 PM   Shuffled word has been randomized to form: imgtornai.
+4/11/2019 2:09:56 PM   Random word drawn from shuffle: preventing.
+4/11/2019 2:09:56 PM   Shuffled word has been randomized to form: pvreiegntn.
+4/11/2019 2:10:04 PM   Random word drawn from shuffle: consisting.
+4/11/2019 2:10:04 PM   Shuffled word has been randomized to form: tgiscsoinn.
+4/11/2019 2:10:13 PM   Random word drawn from shuffle: pollution.
+4/11/2019 2:10:13 PM   Shuffled word has been randomized to form: uoiotlnpl.
+4/11/2019 2:10:21 PM   Random word drawn from shuffle: opposition.
+4/11/2019 2:10:22 PM   Shuffled word has been randomized to form: iionostppo.
+4/11/2019 2:10:34 PM   Random word drawn from shuffle: difference.
+4/11/2019 2:10:34 PM   Shuffled word has been randomized to form: enredffice.

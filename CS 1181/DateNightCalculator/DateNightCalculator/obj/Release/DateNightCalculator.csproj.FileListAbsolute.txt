@@ -1,0 +1,10 @@
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\bin\Release\DateNightCalculator.exe.config
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\bin\Release\DateNightCalculator.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\bin\Release\DateNightCalculator.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Release\DateNightCalculator.csprojAssemblyReference.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Release\DateNightCalculator.frmDateNightCalculator.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Release\DateNightCalculator.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Release\DateNightCalculator.csproj.GenerateResource.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Release\DateNightCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Release\DateNightCalculator.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Release\DateNightCalculator.pdb

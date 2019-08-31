@@ -1,0 +1,20 @@
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.csprojAssemblyReference.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.frmDateNightCalculator.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.csproj.GenerateResource.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\bin\Debug\DateNightCalculator.exe.config
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\bin\Debug\DateNightCalculator.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\bin\Debug\DateNightCalculator.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 5\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.pdb
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\bin\Debug\DateNightCalculator.exe.config
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\bin\Debug\DateNightCalculator.exe
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\bin\Debug\DateNightCalculator.pdb
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.frmDateNightCalculator.resources
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.Properties.Resources.resources
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.exe
+C:\Users\Brandon\Desktop\DateNightCalculator\DateNightCalculator\obj\Debug\DateNightCalculator.pdb

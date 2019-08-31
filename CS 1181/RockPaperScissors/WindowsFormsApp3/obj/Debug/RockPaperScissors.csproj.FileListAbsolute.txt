@@ -1,0 +1,12 @@
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmRockPaperScissors.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmWelcomeForm.resources
+C:\Users\Brandon\Dropbox\School\CS 1181\Assignment 6\RockPaperScissors\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmOverallStats.resources
